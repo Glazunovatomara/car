@@ -12,4 +12,4 @@
 
 ## Результат
 
-[Перейти на сайт](glazunovatomara.github.io/car/) 👈
+[Перейти на сайт](https://glazunovatomara.github.io/car/) 👈
